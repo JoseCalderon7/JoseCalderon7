@@ -1,6 +1,5 @@
-# Acerca de mi 👇🏻
-👋🏼 ¡Hola!, <br>Soy José Calderón, estudiante de último año de Ingeniería en Informática.<br><br>👨🏻‍💻 Actualmente, estoy en busca de una practica profesional para poder egresar de mi carrera.<br><br>🎯 Si bien, no cuento con experiencia del técnica, cuento con motivación y disciplina para poder cumplir todos y cada uno de los desafíos que debo enfrentar.<br><br>🥇 Me distingo por mis capacidades de Liderar y Perseverar ante cualquier problemática.
-
+# Sobre mi
+¡Hola! 👋🏼 Soy José Calderón, actualmente en busqueda de una practica profesional. <br>👨🏼‍🎓Estoy cursando mi último semestre de la carrera de Ingeniería en Informática.<br>👨🏻‍💻Estoy ansioso de poder entrar al mundo laboral y ser un gran aporte para este.<br><br>Me distingo por estos aspectos:<br>- Responsabilidad<br>- Calidad<br>- Perseverancia<br>- Persistencia<br>En cada una de las tareas o trabajos que realizo en el aspecto académico.<br><br>Siempre tomo el 🏋🏻‍♂️Liderazgo🏋🏻‍♂️ en el equipo, me encargo de todo aspecto, ya sean:<br>- Técnicos <br>- Documentación<br>- Tiempos, plazos<br>- Conflictos, etc.<br><br>☝🏼🎯 Si bien no cuento con experiencia técnica, hago lo imposible por lograr los objetivos que sean necesarios. ☝🏼🎯
 
 ## 🌐 ¡Encuentrame en LinkedIn!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-calderón-ortega-8449a4224/)
